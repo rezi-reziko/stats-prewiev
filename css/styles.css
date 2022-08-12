@@ -1,0 +1,88 @@
+body {
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+
+}
+
+img {
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 2rem;
+
+}
+
+span {
+  color: hsl(277, 64%, 61%);
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 23px;
+}
+
+p {
+   color: hsla(0, 0%, 100%, 0.6);
+   width: 70%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#only-section {
+  padding: 8% 8%;
+  background-color: hsl(233, 47%, 7%);
+}
+
+#first-row {
+  padding-bottom: 3rem;
+}
+
+.colum-1 {
+  background-color: hsl(244, 38%, 16%);
+  border-radius: 0.5rem 0 0 0.5rem;
+  text-align: left;
+  padding-top: 5%;
+  padding-left: 7%;
+}
+
+.p1 {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.tinted-image {
+  padding: 0;
+}
+
+.second-rox {
+  padding-top: 4rem;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
